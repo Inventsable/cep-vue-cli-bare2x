@@ -19,6 +19,7 @@ yo cep-vue-cli
 - [Vue](https://vuejs.org/) as JS framework
 - Hot Reloading (panel updates instantly on every save during `npm run serve`)
 - [Vue-CLI-3](https://cli.vuejs.org/) as Node.js tooling (webkit)
+- ✨ [All color themes of any host app automatically handled by starlette library](https://github.com/Inventsable/starlette) ✨
 
 ## [Never used Node, Vue CLI-3 or Webpack?](#Getting-Started)
 
